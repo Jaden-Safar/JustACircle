@@ -1,2 +1,2 @@
 # JustACircle
-It's just a circle... That spins... 
+Meet the Spinning Circle! This isn't just any circle—it's your trusty sidekick for those marathon computer sessions of waiting. What does it do? It spins... and spins... and, well, keeps spinning until something goes awry. Perfect for those times when you need to know if your computer is just being slow or has officially given up, this tool can help catch those moments. If you do Tech Support like I do, consider adding this to your tool bag! It's free, lightweight, portable, and easy to use!
